@@ -44,7 +44,7 @@ Status: Building the future.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Secret297-CODER-SOURCE&theme=tokyonight_duo&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SomeWellYT&theme=tokyonight_duo&hide_border=true"/>
 
 </div>
 
