@@ -16,10 +16,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somewellyt&show_icons=true&locale=en" alt="somewellyt" /></p>
 
-
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=SomeWellYT)](https://github.com/stats-organization/github-stats-extended)
-
 # 🐍 Contribution Snake
 
 <div align="center">
