@@ -1,6 +1,17 @@
 ## Hi there 👋
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=SomeWellYT)](https://github.com/stats-organization/github-stats-extended)
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
 <!--
 **SomeWellYT/SomeWellYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
